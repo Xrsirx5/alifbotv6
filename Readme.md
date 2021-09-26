@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
+  <a https://github.com/Xrsirx5/alifbotv6
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
